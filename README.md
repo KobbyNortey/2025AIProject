@@ -4,7 +4,10 @@ AI Final Project – Streamlit demo + Keras regression model_
 > **Purpose**  
 > Using Machine Learning to predict energy consumption on campus per semster
 
+
 ---
+## Deployed Project link
+https://aifinalproject10.streamlit.app
 
 ## 1. High-level goals
 | # | Outcome |
